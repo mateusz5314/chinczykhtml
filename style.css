@@ -1,0 +1,53 @@
+#tabela
+{
+    border: 0px;
+    position: absolute;
+    top:10px;
+    left:10px;
+    border-collapse: collapse;
+}
+#tabela td
+{
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+}
+#tabela td.srodkowa
+{
+    border: 0px;
+}
+#tabela td.yellow
+{
+    background-color: yellow;
+}
+#tabela td.red
+{
+    background-color: red;
+}
+#tabela td.blue
+{
+    background-color: blue;
+}
+#tabela td.green
+{
+    background-color: green;
+}
+.pionek
+{
+    font-size: 20px;
+    margin: 0px 0px;
+    text-align: center;
+}
+.kosteczka
+{
+    width: 100px;
+    height: 100px;
+    border: solid 2px rgba(166, 138, 196, 0.91);
+    position: absolute;
+    left: 700px;
+    top: 50px;
+}
+
+
+
+
